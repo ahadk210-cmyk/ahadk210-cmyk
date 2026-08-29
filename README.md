@@ -2,6 +2,8 @@
 
 B.Sc. Chemistry (Hons.) with Food Science, IEHE Bhopal | Ranked 8th/105
 
+📄 [One-page project summary (PDF)](https://github.com/ahadk210-cmyk/ahadk210-cmyk/blob/main/One-Page%20Project%20Summary.pdf)
+
 **Multi-Scale Computational Investigation of Food Antioxidants and Solvation Dynamics**
 
 A three-part computational chemistry project investigating the electronic structure, dynamics, and solvation behavior of five food-derived antioxidants (quercetin, catechin, ascorbic acid, caffeic acid, rutin), using three complementary methodologies:
