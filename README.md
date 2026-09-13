@@ -1,6 +1,6 @@
 ### Ahad Khan — Computational Chemistry Portfolio
 
-B.Sc. Chemistry (Hons.) with Food Science, IEHE Bhopal | Ranked 8th/105
+B.Sc. Chemistry (Honours) with Food Science & Quality Control, IEHE Bhopal | Ranked 8th/105
 
 📄 [One-page project summary (PDF)](https://github.com/ahadk210-cmyk/ahadk210-cmyk/blob/main/One-Page%20Project%20Summary.pdf)
 
